@@ -1,0 +1,15 @@
+{
+  "short_name": "Gavish Poddar",
+  "name": "Gavish Poddar",
+  "icons": [
+    {
+      "src": "https://avatars.githubusercontent.com/u/18366222",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#001C55",
+  "background_color": "#ffffff"
+}
