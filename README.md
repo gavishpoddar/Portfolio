@@ -61,7 +61,7 @@ Generate a Github personal access token using these [Instructions](https://help.
 1. Create a file called .env in the root directory of your project.
 
 ```bash
-- DeveloperFolio
+- Portfolio
   - node_modules
   - public
   - src
@@ -80,7 +80,7 @@ Generate a Github personal access token using these [Instructions](https://help.
 
 ```
 
-Set `showGithubProfile` to true or false to show Contact Profile using Github, defaults to false.
+Set `showGithubProfile` to true to show Contact Profile using Github.
 
 Note: Projects section only show pinned items of your Github. If you are seeing [this](https://i.imgur.com/Hj6mu1K.png), please follow this
 [Instructions](https://docs.github.com/en/enterprise/2.13/user/articles/pinning-items-to-your-profile).
